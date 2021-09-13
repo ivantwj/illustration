@@ -19,6 +19,7 @@
 
 body {
   overflow-x: hidden;
+  background: #ffe4e1 !important;
 }
 
 .page-holder {
